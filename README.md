@@ -1,3 +1,4 @@
-# hello-world
-My first code in the GitHub
-Acabei de fazer uma alteração que será reconhecida como uma commit
+# Algoritmo
+Disponibilizo aqui uma lista de exercícios da Universidade Veiga de Almeida.
+Aproveitei, tambem, para disponibilizar os exercícios feitos por mim, com exceção do Ex74.py
+O material é dedicado para iniciantes e interessados, bom proveito :D
