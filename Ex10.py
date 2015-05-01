@@ -1,4 +1,4 @@
-#!/user/bin/env
+#!/us/bin/env
 """
 	Algorithm that reads a name and the salary, then prints how much minimun salary that person receives
 """

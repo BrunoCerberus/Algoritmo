@@ -7,7 +7,7 @@ aList = [1,2,3]
 aTuple = "a", "A", 1
 
 # tanto a lista e a tupla possuem exatamente as mesmas operacoes
-# sendo a unica diferenca as tuplas serem umitaveis
+# sendo a unica diferenca as tuplas serem imutaveis
 # por convensao, a listas sao usadas para dados homogeneos
 # e a tuplas sao usadas para dados heterogemeos, ou seja, dados de tipos
 # diferentes misturados.
