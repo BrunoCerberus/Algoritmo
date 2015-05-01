@@ -25,4 +25,7 @@ gerar_webSite("Deitel", Flash = "sim", url = "www.deitel.com/new")
 # nao precisa ter um argumento padrao para acessar o parametro por meio de palavras-chaves
 # a unica obrigacao, ja que name nao tem um argumento padrao, e que name tem ao menos um valor
 gerar_webSite(CGI = "nao", name = "Bruno")
+
+
+# gerar_webSite(CGI="nao",Flash="sim") # claramente essa linha de código gerará um erro
 	
