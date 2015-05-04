@@ -36,8 +36,12 @@ class Carro:
 		return self.__ano
 	
 	# Lembrando que em python, nao e obrigatorio a declaracao da variavel
-	# antes de seu uso, voce simplesmente pdoe cria-la durante alguma operacao
+	# antes de seu uso, voce simplesmente pode cria-la durante alguma operacao
 	# como nos casos de 'nome' e 'ano' .
+	# Perceba tambem que, antes das variaveis da classe, existe um duplo undescore
+	# isso significa que a variavel e privada e nao pode ser acessada de fora da classe
+	# a penas por metodos da propria classe.
+	
 			
 # Aqui entra os codigos para testar nossa classe
 # para fazer uso da classe precisamos instanciar a classe
@@ -75,3 +79,5 @@ print("-"*10)
 print("Carro3:")
 print("Nome:", carro3.obterNome())
 print("Ano:", carro3.obterAno())
+
+# print(carro3.__nome) # aqui seria um erro, pois __nome e privada
