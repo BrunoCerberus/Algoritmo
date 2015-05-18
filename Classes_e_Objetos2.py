@@ -19,6 +19,7 @@ class Carro2:
 
     # aqui virao os metodos para retornar os valores contidos na variaveis
     # essa tecnica de privatizar nomes se chama encapsulamento
+    # e existem varias formas de encapsulamento
     def obterNome(self):
         return self.__nome
     

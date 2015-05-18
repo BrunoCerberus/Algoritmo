@@ -16,6 +16,7 @@ class ClasseFilha(ClassePai):
 
 # Conceito de heranca simples, a filha herda os atributos 
 # do pai, e o pai nao consegue acessar os atributos da filha.
+# isso funciona como uma especie de especializacao
 
 pai = ClassePai()
 filha = ClasseFilha()

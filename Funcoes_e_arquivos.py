@@ -19,6 +19,8 @@ except ValueError:
 		print("Saindo do programa...")
 		exit()
 
+# Verifica se o arquivo existem,
+# se existir ele retorna True
 if exists(input_file):
 
 	def print_all(f):
