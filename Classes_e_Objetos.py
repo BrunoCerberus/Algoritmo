@@ -6,7 +6,7 @@
 # Toda Classe começa com a chave class
 # O uso da chave 'self' e um pouco estranha, com um pouco de pratica
 # tudo fara sentido, sua definicao e um pouco complicada
-# a penas imagina que a chave self e usada quando o metodo fara uso
+# a penas imagine que a chave self e usada quando o metodo fara uso
 # de algum atributo da propria classe, seria igual ao 'this' do Java.
 
 class Carro:
