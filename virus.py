@@ -1,7 +1,11 @@
 import time
 import pygame
 import os
-
+"""
+	Este programa é um exemplo simples de um virus que a penas
+	nao fecha quando se clica no ícone de fechar janela (x).
+	Ele não danifica nenhuma parte de seu sistema de nenhuma forma.
+"""
 pygame.init()
 
 screen = pygame.display.set_mode((250,150))
