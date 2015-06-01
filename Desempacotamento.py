@@ -1,5 +1,4 @@
 # Desempacotamento
-
 # Criando uma lista, tupla e uma string
 
 aString = "abc"
