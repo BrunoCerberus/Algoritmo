@@ -69,7 +69,7 @@ def rpsls(player_choice):
     # compute difference of comp_number and player_number modulo five
 
     # use if/elif/else to determine winner, print winner message
-
+    # These code bellow are the logical statement
 	if player1 == 0:
 		if computer_choice == 0:
 			print("Empate!")
