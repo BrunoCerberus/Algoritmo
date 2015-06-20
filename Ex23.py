@@ -14,5 +14,5 @@ print("Media:",media)
 if media >= 8 :
 	print("Voce foi aprovado!")
 else:
-	print("Se fodeu otario, vai repetir mais um ano")
+	print("Se ferrou otario, vai repetir mais um ano")
 

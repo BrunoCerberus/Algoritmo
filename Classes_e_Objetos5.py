@@ -20,14 +20,15 @@ class Employee:
 
 		Employee.count +=1 # incrementas o atributo da classe
 
-		print "Employee constructor for %s, %s" % (self.__lastName, self.__firstName)
+		print "Employee constructor for %s %s" % (self.__firstName, self.__lastName)
 
+	# o destrutor
 	def __del__(self):
 		"""Decrements count and prints message"""
 
 		Employee.count -= 1 # decrementa o atributo da classe
 
-		print "Employee destructor for %s, %s" % (self.__lastName, self.__firstName)
+		print "Employee destructor for %s %s" % (self.__firstName, self.__lastName)
 
 # aqui se inicia os testes da classe
 # criando objetos Employee

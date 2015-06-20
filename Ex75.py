@@ -21,13 +21,13 @@ while True: # loop infinito
 		x = int(input("Entre com um inteiro: "))
 		y = int(input("Entre com outro inteiro: "))
 	except ValueError:
-		print("Valor n?o valido inserido, tente novamente....")
+		print "Valor nao valido inserido, tente novamente...."
 		continue
 
 	break
 
-print(vetor)
-print("vetor[%d]= %d" % (x,vetor[x]))
-print("vetor[%d]= %d" % (y,vetor[y]))
-print()
-print("A soma dos dois elementos e de",vetor[x]+vetor[y])
+print vetor
+print "vetor[%d]= %d" % (x,vetor[x])
+print"vetor[%d]= %d" % (y,vetor[y])
+print ""
+print "A soma dos dois elementos e de",vetor[x]+vetor[y]
