@@ -1,9 +1,9 @@
 """
 	Faca um algoritmo (pseudocodigo) que leia um vetor (A) de 10 posicoes. Em seguida,
-compacte o vetor, retirando os valores 0(zero) e negativos, colocando apenas em um vetor
-B de 10 posicoes os valores validos de forma consecutiva, as posicoes nao utilizadas
-devem ficar ao final e com valor 0(zero).
-"""
+	compacte o vetor, retirando os valores 0(zero) e negativos, colocando apenas em um vetor
+	B de 10 posicoes os valores validos de forma consecutiva, as posicoes nao utilizadas
+	devem ficar ao final e com valor 0(zero).
+	"""
 
 from random import randint
 

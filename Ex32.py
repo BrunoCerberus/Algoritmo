@@ -1,5 +1,5 @@
 """
-	ALgoritmo que mostra a rela??o entre dois valores A e B
+	ALgoritmo que mostra a relacao entre dois valores A e B
 """
 import sys
 try:
